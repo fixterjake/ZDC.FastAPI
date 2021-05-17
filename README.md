@@ -1,0 +1,1 @@
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/fixterjake/ZDC.FastAPI/master.svg?badge_token=UK0ZVEHQSFyEBvD9M5SjWA)](https://results.pre-commit.ci/latest/github/fixterjake/ZDC.FastAPI/master?badge_token=UK0ZVEHQSFyEBvD9M5SjWA)
