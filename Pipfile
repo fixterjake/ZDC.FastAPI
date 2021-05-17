@@ -9,7 +9,6 @@ uvicorn = "*"
 mypy = "*"
 
 [dev-packages]
-pytest = "*"
 pylint = "*"
 black = "*"
 pre-commit = "*"
